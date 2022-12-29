@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^13.4.0",
-    "react-renderer": "^0.1.4"
+    "react-renderer": "^0.1.4",
+    "react-test-renderer": "^18.2.0"
   }
 }
